@@ -1,0 +1,13 @@
+﻿  simpleshadows.cpp
+C:\Users\matia\Desktop\simple shadows\firstGame\simpleshadows.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\matia\Desktop\simple shadows\firstGame\simpleshadows.cpp(115,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\matia\Desktop\simple shadows\firstGame\simpleshadows.cpp(115,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  firstGame.vcxproj -> C:\Users\matia\Desktop\simple shadows\Debug\firstGame.exe

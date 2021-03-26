@@ -1,0 +1,73 @@
+﻿  Coin.cpp
+  Game.cpp
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(43,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(145,96): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(145,58): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(146,103): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(146,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(147,103): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(147,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(148,109): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(148,64): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(200,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(200,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(223,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(223,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(229,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(229,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(237,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(237,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(245,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(245,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(253,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(253,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(255,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(255,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(299,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Project1\Game.h(445,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Project1.vcxproj -> C:\Users\matia\Desktop\College Year 2\Motion Graphics\Platformer\Project1\Debug\Project1.exe
