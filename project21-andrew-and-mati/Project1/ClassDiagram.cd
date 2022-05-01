@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BillboardedBoundary" Collapsed="true">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAADAAAAAAAAAAAAAgAACAAQAAAAAIgAAAAA=</HashCode>
+      <FileName>include\BillboardedBoundary.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boundary" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAEIAAAAAAAAAAgAAAAAAAAAABAA=</HashCode>
+      <FileName>include\Boundary.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABBAAAABABAAAAEAAAAAAAAAAAAABAQAAAAEAAA=</HashCode>
+      <FileName>include\bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cell" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAggAgAAAgAIAACBAABABCAAAgIAAASgQABoAIAAAAA=</HashCode>
+      <FileName>include\Cell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cube" Collapsed="true">
+    <Position X="18" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgBAAAAAAAAAAAAAACCQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\Cube.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeathScreen" Collapsed="true">
+    <Position X="12" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoAAAAIEAAAAEAAAAACRAAAQAAAAAAAACAAESAAA=</HashCode>
+      <FileName>include\DeathScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Door" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAACAAAAAAACACAAA=</HashCode>
+      <FileName>include\Door.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyOne" Collapsed="true">
+    <Position X="16.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgCAACAFAAAABhGAIAABJoAC4CAAEABAAAAEAA=</HashCode>
+      <FileName>include\EnemyOne.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XAKFAgIKBAJAESEIIIaAQAAABQgAAgBRBYBKgAjUkEA=</HashCode>
+      <FileName>include\Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grid">
+    <Position X="2.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEBAAAIAAABAIEAgBAAAAABAEAgEAAgAFEAAE=</HashCode>
+      <FileName>include\Grid.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cellGrid" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LevelEditor">
+    <Position X="21.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgJABUAAAAAAAAAAAAIBAEAAACAEAABIAAAAAIAEBBA=</HashCode>
+      <FileName>include\LevelEditor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelLoader" Collapsed="true">
+    <Position X="15.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIACAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LevelLoader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="6.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAoAAAAYEAAAAEAAAAACRQAAQAAAAAAAACAAEQAAA=</HashCode>
+      <FileName>include\MainMenu.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_BGSprite" />
+      <Field Name="m_BGTexture" />
+      <Field Name="m_exitButtonSprite" />
+      <Field Name="m_exitButtonText" />
+      <Field Name="m_levelEditorSprite" />
+      <Field Name="m_levelEditorText" />
+      <Field Name="m_logoSprite" />
+      <Field Name="m_logoText" />
+      <Field Name="m_playButtonSprite" />
+      <Field Name="m_playButtonText" />
+      <Field Name="mp" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="pickupHandler" Collapsed="true">
+    <Position X="25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\pickupHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Sprite" Collapsed="true">
+    <Position X="12.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACBEAIAgACAAIAAAAAAAAAACAwAAAAgAIIAAA=</HashCode>
+      <FileName>C:\SFML-2.5.1\include\SFML\Graphics\Sprite.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Texture" Collapsed="true">
+    <Position X="14.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAEQAAYMACgAhCACAMAgAAABBAACAAAQJwBAJEAIg=</HashCode>
+      <FileName>C:\SFML-2.5.1\include\SFML\Graphics\Texture.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MapCoords" Collapsed="true">
+    <Position X="15.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LevelLoader.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="mapBlock" Collapsed="true">
+    <Position X="17.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>include\LevelLoader.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LevelData" Collapsed="true">
+    <Position X="15.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LevelLoader.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="sf::Vector2f" Collapsed="true">
+    <Position X="11.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\SFML-2.5.1\include\SFML\System\Vector2.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="Type" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>include\BillboardedBoundary.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameState" Collapsed="true">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAQAAAAAGAAAAAAAAQAAgAAAAgAhAAAAAAAAA=</HashCode>
+      <FileName>include\Game.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
